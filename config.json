@@ -14,8 +14,8 @@
     "botInviteLink": "https://discord.com/oauth2/authorize?client_id=723094801175806024&permissions=268561494&scope=bot%20applications.commands",
     "discordInviteLink": "https://discord.gg/r4bsXez",
     "topgg": "https://top.gg/bot/723094801175806024",
-    "website": "https://focus04.github.io/Focus",
-    "github": "https://github.com/Focus04/Focus-Discord"
+    "website": "website.com",
+    "github": "your GitHub"
   },
   "deafultWelcomeMsg": "Wish [user] a pleasant stay!",
   "defaultLeaveMsg": "[user] has parted ways with us...",
