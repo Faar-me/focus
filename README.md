@@ -1,4 +1,4 @@
-# Focus
+# Zenith Boost 
 ## Overview
 *Revamp your Discord server. Moderation, role management, logging and more, all in an easy to use, feature rich and bug free Discord bot!*
 ## Command List
@@ -91,7 +91,7 @@ Please note though, I strongly advice that you have a decent understanding of Ja
 ### 2. Connecting The Code To The Bot
 * Before downloading the bot's source code, you must download and install [Node.js](https://nodejs.org/en/) on your computer.
 
-* You can now proceed to download [the latest code](https://github.com/Focus04/focus/releases). Scroll to the latest release and download the corresponding zip file, then extract it somewhere on your computer.
+he corresponding zip file, then extract it somewhere on your computer.
 
 * Navigate into the folder you've just extracted (which should contain all the code), right click and open a new terminal in the folder (my recommendation would be [PowerShell 7](https://github.com/PowerShell/powershell/releases) if you're a Windows user). Use the following command to install all the dependencies:
   ```
